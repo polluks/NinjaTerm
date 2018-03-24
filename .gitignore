@@ -2,6 +2,7 @@
 /NinjaTerm/*.prg
 /NinjaTerm/*.dbg
 /NinjaTerm/*.dmp
+NinjaTerm/src/*.o
 NinjaTerm/NinjaTerm.dup
 NinjaTerm/NinjaTerm.vic20
 NinjaTerm/NinjaTerm.vic20.lbl
