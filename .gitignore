@@ -2,3 +2,8 @@
 /NinjaTerm/*.prg
 /NinjaTerm/*.dbg
 /NinjaTerm/*.dmp
+NinjaTerm/NinjaTerm.dup
+NinjaTerm/NinjaTerm.vic20
+NinjaTerm/NinjaTerm.vic20.lbl
+NinjaTerm/ca65_plugin_build.sh
+NinjaTerm/ult.bin
