@@ -1,0 +1,4 @@
+ll "NinjaTerm.vic20.lbl"
+bk .START_HERE
+bk 4124
+bk 4051

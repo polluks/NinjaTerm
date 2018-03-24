@@ -1,0 +1,15 @@
+{
+    "files.eol": "\n",
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "ca65.cc65": "/mnt/f/ultimem/cc65/bin",
+    "ca65.cl65.config": "src/vic20-32k.cfg",
+    "ca65.cl65.options": "-Ln \"ultimem.vic20.lbl\" -Oi",
+    "ca65.cl65.target": "vic20",
+    "ca65.vscodeenv": "windows",
+    "ca65.testenv": "windows",
+    "ca65.buildenv": "linux",
+    "ca65.emulatorPath": "F:\\WinVICE-3.0\\WinVICE-3.1-x86\\xvic.exe",
+    "ca65.emulatorPrelaunch": "-c exit",
+    "ca65.emulatorOptions": "-memory 24k -moncommands monitor.cmds NinjaTerm.vic20"
+}
